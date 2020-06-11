@@ -4,8 +4,8 @@ The tweets have been categorized into six main categories; action, criticism, po
 To know more about the analysis, you can find a medium article on this here - 
 
 The python file "extract_tweets.py" was used to extract the tweets. 
-The excel file "Clean Data v1.0.xlsx" contains the data and the details of the categorization. 
-Folllowing are the column headers in the clean data file - 
+The csv file "Consolidated tweets.csv" contains the data and the details of the categorization. 
+Folllowing are the column headers in that file - 
 
   sr. no.	
   

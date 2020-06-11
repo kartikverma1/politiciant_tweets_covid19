@@ -6,9 +6,9 @@ To know more about the analysis, you can find a medium article on this here -
 The python file "extract_tweets.py" was used to extract the tweets. 
 The excel file "Clean Data v1.0.xlsx" contains the data and the details of the categorization. 
 Folllowing are the column headers in the clean data file - 
-  sr. no.	
-  Country	
-  text	
+  sr. no.	\n
+  Country	\n
+  text	\n
   timestamp
   tweet_url
   likes
